@@ -3,10 +3,12 @@
 - 🌱 Formatação...
 - 💞️ CMD ...
 - 📫 Modificar bios de notebook ...
-
+-  
 ![](https://media.tenor.com/iZdP3tTNrpAAAAAM/computer.gif)
 
 https://editor.p5js.org/
+
+[alura] (https//:www.alura.com.br)
 
 @rasinformática
 
