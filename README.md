@@ -6,9 +6,9 @@
 -  
 ![](https://media.tenor.com/iZdP3tTNrpAAAAAM/computer.gif)
 
-Tenho um canal no youtube com dicas sobre PC. [youtube] (https://studio.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+Tenho um canal no youtube com dicas sobre PC. 
 
-https://editor.p5js.org/
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) (https://studio.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
 
 [alura] (https//:www.alura.com.br)
 
@@ -16,4 +16,4 @@ https://editor.p5js.org/
 
 https://studio.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
 
-![](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
+https://editor.p5js.org/   ![](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
