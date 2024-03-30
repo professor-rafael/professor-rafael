@@ -10,7 +10,7 @@ Tenho um canal no youtube com dicas sobre PC.
 
 ![](https://www.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ) (https://studio.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
 
-[alura] (https//:www.alura.com.br)
+![alura](https//:www.alura.com.br)
 
 @rasinformática
 
