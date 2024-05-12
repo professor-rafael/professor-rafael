@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://github.com/professor-rafael/projeto_--_uva_niagara/assets/101332916/f756dc95-8da7-4ec4-8936-0e8715fbbd0d" width="500px" />
 </div>
-
 
 - ### Olá, sou o Professor Rafael
 - 👀 Gosto de computação...
@@ -11,7 +10,7 @@
 -  
 ![](https://media.tenor.com/iZdP3tTNrpAAAAAM/computer.gif)
 
-- ### Tenho um canal no youtube com dicas sobre PC. 
+- ### Tenho um canal no youtube com dicas de como melhorar o desempenho de seu PC e Notebook. 
 
 [alura](www.alura.com.br)
 ### link do Vercel(https://vercel.com/professorrafaels-projects)
