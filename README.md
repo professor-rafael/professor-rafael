@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael!;" />
 </h1>
 <div align="center">
-<img src="https://github.com/professor-rafael/projeto_--_uva_niagara/assets/101332916/f756dc95-8da7-4ec4-8936-0e8715fbbd0d" height="500px"nwidth="800px" />
+<img src="https://github.com/professor-rafael/projeto_--_uva_niagara/assets/101332916/f756dc95-8da7-4ec4-8936-0e8715fbbd0d" height="500px"nwidth="1000px" />
 </div>
 
 
