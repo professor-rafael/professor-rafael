@@ -2,6 +2,10 @@
 <img src="https://github.com/professor-rafael/projeto_--_uva_niagara/assets/101332916/f756dc95-8da7-4ec4-8936-0e8715fbbd0d" width="500px" />
 </div>
 
+
+
+![professor-rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=professor-rafael&show_icons=true&theme=radical)
+
 - ### Olá, sou o Professor Rafael
 - 👀 Gosto de computação...
 - 🌱 Formatação...
