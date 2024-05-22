@@ -12,13 +12,8 @@
 - 🌱 Formatação...
 - 💞️ CMD ...
 - 📫 Modificar bios de notebook ...
--  
-![](https://media.tenor.com/iZdP3tTNrpAAAAAM/computer.gif)
-
 - ### Tenho um canal no youtube com dicas de como melhorar o desempenho de seu PC e Notebook. 
-
-[alura](www.alura.com.br)
-### link do Vercel(https://vercel.com/professorrafaels-projects)
+- ### link do Vercel(https://vercel.com/professorrafaels-projects)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
