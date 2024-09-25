@@ -3,13 +3,10 @@
 </h1>
 
 <p float="left">
-  <img src="ras.jpg" width="200px" />
-  <img src="link-da-imagem-2" width="200" />
+  <img src="ras.jpg" width="500px" />
+  <img src="ras2.jpg" width="500px" />
 </p>
 
-<div align="left">
-<img src="ras.jpg" height="400px"width="400px" />
-</div>
 <BR>
 - 👀 Gosto de computação
 <br>
