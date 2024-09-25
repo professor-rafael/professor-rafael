@@ -1,6 +1,12 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael!;" />
 </h1>
+
+<p float="left">
+  <img src="ras.jpg" width="200px" />
+  <img src="link-da-imagem-2" width="200" />
+</p>
+
 <div align="left">
 <img src="ras.jpg" height="400px"width="400px" />
 </div>
