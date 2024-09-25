@@ -10,20 +10,28 @@
 <BR>
 - 👨‍💻 Gosto de computação
 <br>
+<BR>
 - 😉Formatação
 <br>
+<BR>
 - 💞️ CMD 
 <br>
+<BR>
 - 💻 Modificar bios de notebook 
 <br>
+<BR>
 - 🤔 Front-end
 <br>
+<BR>
 - 🤯 Back-end
 <br>
+<BR>
 - 💞 Javascript
 <br>
+<BR>
 - 💰 style.css
 <br>
+<BR>
 - 🕸️ index.html
 
 <div style="display: inline_block"><br>
