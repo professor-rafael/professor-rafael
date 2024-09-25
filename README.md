@@ -8,23 +8,23 @@
 </p>
 
 <BR>
-- 👀 Gosto de computação
+- 👨‍💻 Gosto de computação
 <br>
-- 🌱 Formatação
+- 😉Formatação
 <br>
 - 💞️ CMD 
 <br>
-- 📫 Modificar bios de notebook 
+- 💻 Modificar bios de notebook 
 <br>
-- 👀 Front-end
+- 🤔 Front-end
 <br>
-- 👀 Back-end
+- 🤯 Back-end
 <br>
-- 💞️ Javascript
+- 💞 Javascript
 <br>
-- 💞️ style.css
+- 💰 style.css
 <br>
-- 💞️ index.html
+- 🕸️ index.html
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
