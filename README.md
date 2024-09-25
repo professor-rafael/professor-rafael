@@ -3,8 +3,8 @@
 </h1>
 
 <p float="left">
-  <img src="ras.jpg" width="200px" />
-  <img src="ras2.jpg" width="200px" />
+  <img src="ras.jpg" width="400px" />
+  <img src="ras2.jpg" width="400px" />
 </p>
 
 <BR>
