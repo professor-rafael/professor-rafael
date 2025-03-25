@@ -8,32 +8,8 @@
 </p>
 
 <BR>
-- 👨‍💻 Gosto de computação
-<br>
+👨‍💻Gosto de computação, 😉Formatação, 💞️CMD , 💻Alteração na bios de notebook, 🤔Front-end, 🤯Back-end, 🕸️index.html, 💰style.css, 💞Javascript.
 <BR>
-- 😉Formatação
-<br>
-<BR>
-- 💞️ CMD 
-<br>
-<BR>
-- 💻 Modificar bios de notebook 
-<br>
-<BR>
-- 🤔 Front-end
-<br>
-<BR>
-- 🤯 Back-end
-<br>
-<BR>
-- 💞 Javascript
-<br>
-<BR>
-- 💰 style.css
-<br>
-<BR>
-- 🕸️ index.html
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
