@@ -8,7 +8,7 @@
 </p>
 
 <BR>
-👨‍💻Gosto de computação, 😉Formatação, 💞️CMD , 💻Alteração na bios de notebook, 🤔Front-end, 🤯Back-end, 🕸️index.html, 💰style.css, 💞Javascript.
+👨‍💻Gosto de computação, 😉Formatação, 💞️CMD , 🤔Front-end, 🤯Back-end, 🕸️index.html, 💰style.css, 💞Javascript.
 <BR>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
