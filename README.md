@@ -8,7 +8,7 @@
 </p>
 
 <BR>
-👨‍💻Técnico de informática, 💞️CMD, 🤔Front-end, 🤯Back-end, Javascript.
+🤔Front-end, 🤯Back-end, Javascript, 👨‍💻Técnico de informática
 <BR>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
