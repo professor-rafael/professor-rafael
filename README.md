@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael!;" />
 </h1>
 
+[![YouTube Music - Ouça no YouTube](https://img.shields.io/badge/YouTube_Music-Ouvir_Agora-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://www.youtube.com/watch?v=vjAGt3IpLVk)
+
 <p float="left">
   <img src="isabel.png" height="400px" width="1200px" />
   
