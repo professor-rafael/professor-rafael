@@ -66,23 +66,9 @@
 
 ---
 
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=professor-rafael&theme=tokyonight&border_radius=10" />
-
-</div>
-
----
 
 <div align="center">
 
-### 🐍 Contribuições
-
-<br>
 
 <img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
 
